@@ -17,10 +17,10 @@
     "no-unused-vars": "warn",
     "react/react-in-jsx-scope": "off",
     "spaced-comment": "off",
-    "object-curly-spacing": "off",
     "react/prop-types": "off",
+    "object-curly-spacing": "off",
     "prefer-const": "off",
-    "indent": "off",
-    "react/jsx-key": "off"
+    "react/jsx-key": "off",
+    "indent": "off"
   }
 }
