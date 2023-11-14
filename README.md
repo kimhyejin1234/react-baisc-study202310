@@ -23,3 +23,7 @@ $ npm install
 이유:node_modules 폴더는 github에 포함되어 있지 않기 때문에
 다른 환경에서는 반드시 라이브러리 다운로드 및 설치가 반드시 필요.
 클론 후 install 후 npm start 를 해야 한다.
+
+#추가 라이브러리 설치
+styled-components : 동적 css 처리도와주는 라이블리
+$ npm install styled-components

@@ -48,11 +48,12 @@ const ExpenseForm = ({ onSaveExpense, onToggle }) => {
       price: '',
       date: '',
     });
+
     onToggle();
   };
 
   const cancelInsertHandler = () => {
-    console.log('취소 버튼 누름 !!');
+    // console.log('취소 버튼 누름!');
     onToggle();
   };
 
