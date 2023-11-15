@@ -27,3 +27,6 @@ $ npm install
 #추가 라이브러리 설치
 styled-components : 동적 css 처리도와주는 라이블리
 $ npm install styled-components
+
+css 확장 라이브러리 sass
+$ npm install sass
